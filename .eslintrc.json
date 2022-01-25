@@ -1,0 +1,31 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "jest": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+      "react/jsx-one-expression-per-line": "off",
+      "react/react-in-jsx-scope": "off", // Desde React 17 no es necesario importar React y ReactDOM.
+      "react/prop-types": "off", //desactiva el checkeo de tipos de las props. Para ello es necesario descargar librería PropTypes
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "object-curly-newline": ["error", { "multiline": true }],
+      "no-use-before-define": ["error", { "functions": false, "classes": false }],
+      "arrow-parens": ["error", "as-needed"],
+      "comma-dangle": ["error", "never"]
+    }
+}
