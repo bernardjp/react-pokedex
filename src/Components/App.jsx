@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import styled from '@emotion/styled';
 import Header from './Header/Header';
 import { HomePage } from './BasePages/HomePage';
