@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-pokedex/static/css/main.3919ce23.chunk.css",
-    "main.js": "/react-pokedex/static/js/main.6a2c87be.chunk.js",
-    "main.js.map": "/react-pokedex/static/js/main.6a2c87be.chunk.js.map",
-    "runtime-main.js": "/react-pokedex/static/js/runtime-main.a0ac9678.js",
-    "runtime-main.js.map": "/react-pokedex/static/js/runtime-main.a0ac9678.js.map",
-    "static/js/2.0f26fa6c.chunk.js": "/react-pokedex/static/js/2.0f26fa6c.chunk.js",
-    "static/js/2.0f26fa6c.chunk.js.map": "/react-pokedex/static/js/2.0f26fa6c.chunk.js.map",
-    "index.html": "/react-pokedex/index.html",
-    "static/css/main.3919ce23.chunk.css.map": "/react-pokedex/static/css/main.3919ce23.chunk.css.map",
-    "static/js/2.0f26fa6c.chunk.js.LICENSE.txt": "/react-pokedex/static/js/2.0f26fa6c.chunk.js.LICENSE.txt",
-    "static/media/pokeball3c.e4a70e6a.png": "/react-pokedex/static/media/pokeball3c.e4a70e6a.png",
-    "static/media/pokemon_landing_img.046f8996.png": "/react-pokedex/static/media/pokemon_landing_img.046f8996.png",
-    "static/media/trainer_comp2.44e0000b.png": "/react-pokedex/static/media/trainer_comp2.44e0000b.png",
-    "static/media/trainer_small4.d132fe20.png": "/react-pokedex/static/media/trainer_small4.d132fe20.png"
+    "main.css": "/pokedex-react/static/css/main.3919ce23.chunk.css",
+    "main.js": "/pokedex-react/static/js/main.6a2c87be.chunk.js",
+    "main.js.map": "/pokedex-react/static/js/main.6a2c87be.chunk.js.map",
+    "runtime-main.js": "/pokedex-react/static/js/runtime-main.cc9edf9d.js",
+    "runtime-main.js.map": "/pokedex-react/static/js/runtime-main.cc9edf9d.js.map",
+    "static/js/2.0f26fa6c.chunk.js": "/pokedex-react/static/js/2.0f26fa6c.chunk.js",
+    "static/js/2.0f26fa6c.chunk.js.map": "/pokedex-react/static/js/2.0f26fa6c.chunk.js.map",
+    "index.html": "/pokedex-react/index.html",
+    "static/css/main.3919ce23.chunk.css.map": "/pokedex-react/static/css/main.3919ce23.chunk.css.map",
+    "static/js/2.0f26fa6c.chunk.js.LICENSE.txt": "/pokedex-react/static/js/2.0f26fa6c.chunk.js.LICENSE.txt",
+    "static/media/pokeball3c.e4a70e6a.png": "/pokedex-react/static/media/pokeball3c.e4a70e6a.png",
+    "static/media/pokemon_landing_img.046f8996.png": "/pokedex-react/static/media/pokemon_landing_img.046f8996.png",
+    "static/media/trainer_comp2.44e0000b.png": "/pokedex-react/static/media/trainer_comp2.44e0000b.png",
+    "static/media/trainer_small4.d132fe20.png": "/pokedex-react/static/media/trainer_small4.d132fe20.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0ac9678.js",
+    "static/js/runtime-main.cc9edf9d.js",
     "static/js/2.0f26fa6c.chunk.js",
     "static/css/main.3919ce23.chunk.css",
     "static/js/main.6a2c87be.chunk.js"
